@@ -1,6 +1,6 @@
 # RegretCovid dataset
 
-Dataset used in the paper **"Regret, Delete, (Do Not) Repeat: An Analysis of Self-Cleaning Practices on Twitter After the Outbreak of the COVID-19 Pandemic"** (*Anonymous*, 2023)
+Dataset used in the paper **"Regret, Delete, (Do Not) Repeat: An Analysis of Self-Cleaning Practices on Twitter After the Outbreak of the COVID-19 Pandemic"** (*Diaz Ferreyra et al.*, 2023)
 
 - This dataset includes CSV files that contain the IDs of the tweets analysed in the paper (**17.213 deleted** and **122.083 non-deleted**). 
 - Twitter's [policy](https://developer.twitter.com/en/developer-terms/policy) restricts the sharing of Twitter data other than IDs; therefore, only the tweet IDs are released through this dataset. 
